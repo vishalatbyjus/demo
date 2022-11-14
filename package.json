@@ -1,0 +1,10 @@
+{
+  "name": "itishelloworld",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/vishalatbyjus/demo.git"
+  }
+}
+
